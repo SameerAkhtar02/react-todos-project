@@ -1,0 +1,33 @@
+.container{
+  position: relative;
+  background-color: aliceblue;
+  width: 50vw;
+  height: fit-content;
+  padding: 10px 10px;
+  margin: 20px auto;
+}
+.container input{
+  width: 50%;
+  padding: 10px 10px;
+}
+.container button{
+  margin-left: 20px;
+  padding: 10px 10px;
+  background-color: green;
+  border: none;
+}
+.tasks{
+  position: relative;
+  width: 50vw;
+  height: fit-content;
+  padding: 10px 10px;
+  background-color: bisque;
+  margin: 10px auto;
+}
+.delete-task-btn{
+background-color: rgba(255, 0, 0, 0.7);
+color: white;
+border: transparent;
+padding: 4px 5px;
+border-radius: 4px;
+}
